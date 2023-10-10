@@ -1,5 +1,5 @@
 {
-  "name": "area-management-system",
+  "name": "nebula",
   "version": "0.1.0",
   "private": true,
   "scripts": {
@@ -44,5 +44,5 @@
   "ct3aMetadata": {
     "initVersion": "7.20.2"
   },
-  "packageManager": "npm@9.7.2"
+  "packageManager": "yarn@1.22.19"
 }
